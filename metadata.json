@@ -1,0 +1,6 @@
+{
+  "name": "Visionary AI",
+  "description": "Professional multi-track AI video editor with VFX, transitions, custom watermark, cloud projects, and text-to-video generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
